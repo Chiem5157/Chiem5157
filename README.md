@@ -3,8 +3,6 @@
   <a href="https://discord.com/users/730681832529723393"><img src="https://lanyard.cnrad.dev/api/730681832529723393" width=45%></a>
 </p>
 
-<p align="center"><img src="https://count.getloli.com/get/@:Ayhuuu" alt=":Ayhuuu" /></p>
-
  
 
 
